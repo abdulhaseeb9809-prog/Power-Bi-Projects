@@ -76,13 +76,13 @@ Create early warning alerts for operational issues
 ## 🖼️ Dashboard Preview
 
 📌 Financial Overview
-Images/dashboard1.png
+Images/Dashboard1.png
 
 📌 Operational Efficiency
-Images/dashboard2.png
+Images/Dashboard2.png
 
 📌 Workforce Insights
-Images/dashboard3.png
+Images/Dashboard3.png
 
 ## 📌 Conclusion
 
