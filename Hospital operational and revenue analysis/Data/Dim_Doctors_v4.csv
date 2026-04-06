@@ -1,0 +1,21 @@
+Doctor_ID,Doctor_Name,Department_ID,Seniority_Level,Resigned_Date
+1,Dr. Pramod,4,Senior,
+2,Dr. Vikram,5,Senior,
+3,Dr. Haseeb,3,Senior,
+4,Dr. Neha,5,Senior,
+5,Dr. Navya,5,Senior,01-09-2025
+6,Dr. Jhon,2,Senior,01-09-2025
+7,Dr. Jiya,3,Mid,
+8,Dr. Rohan,3,Mid,
+9,Dr. Abhijith,3,Mid,
+10,Dr. Vishnu,5,Mid,
+11,Dr. Arjun,4,Mid,
+12,Dr. Meera,3,Mid,
+13,Dr. Amit,6,Mid,
+14,Dr. Sneha,5,Mid,
+15,Dr. Vishal,2,Junior,
+16,Dr. Kavya,4,Junior,
+17,Dr. Ritesh,6,Junior,
+18,Dr. Anjali,6,Junior,
+19,Dr. Karan,2,Junior,
+20,Dr. Pooja,4,Junior,
